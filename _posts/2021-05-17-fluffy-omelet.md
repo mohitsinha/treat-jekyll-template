@@ -4,7 +4,7 @@ title: Fluffy Omelet
 categories:
   - Egg Recipes
   - 10 Minute Recipes
-featured_image: /images/fluffy-omelet/final-2-blog.jpg
+featured_image: /assets/images/fluffy-omelet/final-2-blog.jpg
 youtube_link: https://www.youtube.com/embed/t4Atgz3cSW4
 recipe:
   servings: 1 person
@@ -47,4 +47,4 @@ In this recipe, we will make a super fluffy omelet in Indian style with onions, 
 This fluffy omelet will have a spongy & foamy feel and will have the usual Indian flavour of onions, tomatoes & capsicum.
 This is a very easy egg recipe and can be cooked in under 10 minutes.
 
-![Fluffy Omelet](/images/fluffy-omelet/final-3-blog.jpg)
+![Indian Shakshuka](/images/fluffy-omelet/final-3-blog.jpg)
