@@ -2,7 +2,7 @@
 
 Food/baking blog template for Jekyll. Browse through a [live demo](https://spring-bat.cloudvent.net/).
 
-![Treat template screenshot](images/_screenshot.png)
+![Tasty Recipes 247 screenshot](images/_screenshot.png)
 
 Treat was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
