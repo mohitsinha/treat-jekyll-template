@@ -44,7 +44,7 @@ recipe:
     10. Cover and cook for 2-3 minutes on low flame.
 
     **Garnishing**
-    1. Shakshuka(Masala Poached eggs) is ready. Garnish it with coriander leaves.
+    1. Garnish it with coriander leaves.
 ---
 Shakshuka(Masala Poached egg) is a middle Eastern egg recipe made with eggs poached in spicy tomato sauce. 
 
