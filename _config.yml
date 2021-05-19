@@ -2,6 +2,7 @@
 # Site
 
 title: Tasty Recipes 247
+tagline: A blog dedicated to easy cooking & Indian Recipes
 url: "http://tastyrecipes247.com/"
 baseurl:
 google_analytics_key:
@@ -11,7 +12,8 @@ disqus_shortname: tastyrecipes247
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
+description: This is a food blog for easy cooking and Indian recipes. All of the recipes here are very easy. All recipes are also there on Youtube Channel Tasty Recipes 247.
+
 author:
   name: Tasty Recipes 247
   email: pratibha.recipes247@gmail.com
@@ -19,7 +21,9 @@ author:
 social:
   name: Tasty Recipes 247
   links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+    - https://www.instagram.com/tastyrecipes247
+    - https://www.facebook.com/tastyrecipes247
+    - https://twitter.com/tastyrecipes247
 
 # -----
 # Build
@@ -78,7 +82,7 @@ exclude:
 
 # -----------
 # CloudCannon
-
+locale: en_IN
 social_icons:
   - Facebook
   - Google Plus
