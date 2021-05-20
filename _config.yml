@@ -7,7 +7,7 @@ url: "http://tastyrecipes247.com/"
 baseurl:
 google_analytics_key: G-24T56CNX85
 #  TODO - to add
-newsletter_action:
+newsletter_action: https://tastyrecipes247.us1.list-manage.com/subscribe/post?u=0ae66407fe629b85b2020cbd3&amp;id=21f0e49f0e
 disqus_shortname: tastyrecipes247
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
