@@ -3,7 +3,6 @@ date: 2021-05-11
 title: Indian Shakshuka
 categories:
   - Egg Recipes
-  - 10 Minute Recipes
 featured_image: /images/shakshuka/shakshuka-blurred-blog.jpg
 youtube_link: https://www.youtube.com/embed/wMbhCMWkiTU    
 recipe:

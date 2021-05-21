@@ -3,7 +3,6 @@ date: 2021-05-12
 title: Mango Sheera
 categories:
   - Sweet Dishes (Desserts)
-  - 10 Minute Recipes
 featured_image: /images/mango-sheera/IMG20210509182007.jpg 
 youtube_link: https://www.youtube.com/embed/bltvFSUeOjY
 
