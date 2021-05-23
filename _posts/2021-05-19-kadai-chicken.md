@@ -56,6 +56,7 @@ recipe:
     14. Add Garam Masala, and cover and cook for 5 minutes.
 
     **Garnishing**
+    
     1. Garnish Kadai Chicken with coriander leaves.
 ---
 Chicken Kadai/ Chicken Kadahi / Chicken Kadhai  / Chicken Karahi  is a popular Chicken dish in the India, Nepal, Pakistan & Bangladesh. 
