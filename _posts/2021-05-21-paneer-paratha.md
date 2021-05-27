@@ -13,7 +13,7 @@ recipe:
     **Cooking**
 
     * Flour - 1 Cup
-    * Panner(Grated) - 1/2 Cup
+    * Paneer(Grated) - 1/2 Cup
     * Coriander(Finely Chopped)
     * Onion(Chopped) - 1
     * Green Chilli(Chopped) - 1

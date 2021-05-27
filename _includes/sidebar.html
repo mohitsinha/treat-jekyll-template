@@ -9,6 +9,11 @@
 		<p>{{ site.data.sidebar.description_markdown | markdownify }}</p>
 	</div>
 
+	<div class="yt-subscribe">
+		<div class="g-ytsubscribe" data-channelid="UC9oDMcXeQCyoVxEFrSmihFg" data-layout="full" data-count="hidden"></div>
+	</div>
+
+
 	<div class="social-icons">
 		{% if site.data.sidebar.youtube && site.data.sidebar.youtube != "" %}<a target="_blank" href="https://www.youtube.com/{{ site.data.sidebar.youtube }}">{% include social-icon.html icon="YouTube" %}</a>{% endif %}
 		{% if site.data.sidebar.facebook && site.data.sidebar.facebook != "" %}<a target="_blank" href="https://facebook.com/{{ site.data.sidebar.facebook }}">{% include social-icon.html icon="Facebook" %}</a>{% endif %}
