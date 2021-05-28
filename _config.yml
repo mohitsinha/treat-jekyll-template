@@ -32,7 +32,7 @@ timezone: Etc/UTC
 
 paginate: 10
 paginate_path: "/:num/"
-permalink: /:title:output_ext
+permalink: pretty
 
 defaults:
   - scope:
@@ -69,7 +69,7 @@ defaults:
       push_sidebar_down: true
 
 collections:
-  my_collection:
+  posts:
     output: true
     permalink: /:title:output_ext
 
