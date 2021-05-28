@@ -68,6 +68,11 @@ defaults:
       layout: "default"
       push_sidebar_down: true
 
+collections:
+  my_collection:
+    output: true
+    permalink: /:title:output_ext
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
