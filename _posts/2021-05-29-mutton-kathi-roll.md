@@ -25,9 +25,10 @@ recipe:
     * Dhaniya Powder(Coriander) - 1 tbsp
     * Haldi Powder(Turmeric) - 1/2 tbsp
     * Salt as per taste
-      directions_markdown: |-
-      **Cooking**
-
+      
+  directions_markdown: |-
+    **Cooking**
+  
     1. Marinate Mutton with powdered spices, salt & oil.
     2. Keep the Mutton in fridge for 30 minutes after marinating.
     3. Heat oil.
