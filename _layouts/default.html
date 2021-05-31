@@ -29,6 +29,7 @@
 
 		<script data-ad-client="ca-pub-7403876048741202" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<script src="https://apis.google.com/js/platform.js"></script>
+		<script src="{{ site.baseurl }}/js/simple-jekyll-search.min.js"></script>
 
 	</head>
 	<body>
@@ -44,10 +45,30 @@
 			</div>
 		</header>
 
+		<div>
+			<div id="search-demo-container">
+				<input type="search" id="search-input" placeholder="search...">
+				<ul id="results-container"></ul>
+			</div>
+
+		</div>
 		<div class="container main-content">
 			<section class="content">{{ content }}</section>
 			{% include sidebar.html %}
 		</div>
+
+		<script>
+			window.simpleJekyllSearch = new SimpleJekyllSearch({
+				searchInput: document.getElementById('search-input'),
+				resultsContainer: document.getElementById('results-container'),
+				json: '{{ site.baseurl }}/search.json',
+				searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+				noResultsText: 'No results found',
+				limit: 10,
+				fuzzy: true,
+				exclude: ['Welcome']
+			})
+		</script>
 		<footer>
 			<div class="container">
 				<hr>
