@@ -78,6 +78,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-compress-images
+
+compress_images:
+  images_path: "images/**/*.{gif,png,jpg,jpeg,svg}"
 
 exclude:
   - Gemfile
