@@ -31,10 +31,18 @@
 		<script src="https://apis.google.com/js/platform.js"></script>
 		<script src="{{ site.baseurl }}/js/simple-jekyll-search.min.js"></script>
 
+		<link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
 	</head>
 	<body>
 		{% include navigation.html %}
 		<header>
+			<div>
+				<ul id="results-container" style="list-style-type:none; border:2px;">
+				</ul>
+			</div>
+
 			<a href="{{site.baseurl }}/">
 				<img src="{{ site.baseurl }}{{ site.data.company_details.logo_image }}" width="180" alt="logo">
 			</a>
@@ -45,18 +53,10 @@
 			</div>
 		</header>
 
-		<div>
-			<div id="search-demo-container">
-				<input type="search" id="search-input" placeholder="search...">
-				<ul id="results-container"></ul>
-			</div>
-
-		</div>
 		<div class="container main-content">
 			<section class="content">{{ content }}</section>
 			{% include sidebar.html %}
 		</div>
-
 		<script>
 			window.simpleJekyllSearch = new SimpleJekyllSearch({
 				searchInput: document.getElementById('search-input'),
@@ -69,6 +69,7 @@
 				exclude: ['Welcome']
 			})
 		</script>
+
 		<footer>
 			<div class="container">
 				<hr>
