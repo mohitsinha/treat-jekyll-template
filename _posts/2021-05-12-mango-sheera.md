@@ -1,6 +1,8 @@
 ---
 date: 2021-05-12
 title: Mango Sheera
+image:
+  path: /images/mango-sheera/IMG20210509182007.jpg
 categories:
   - Sweet Dishes (Desserts)
 featured_image: /images/mango-sheera/IMG20210509182007.jpg 

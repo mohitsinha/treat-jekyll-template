@@ -3,6 +3,8 @@ date: 2021-05-21
 title: Paneer Paratha
 categories:
   - Paneer Recipes
+image:
+  path: /images/paneer-paratha/food-1-blog.jpg
 featured_image: /images/paneer-paratha/food-1-blog.jpg
 youtube_link: https://www.youtube.com/embed/xZwCOxaCCK4    
 recipe:

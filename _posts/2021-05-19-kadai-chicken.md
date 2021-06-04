@@ -3,6 +3,8 @@ date: 2021-05-19
 title: Kadai Chicken
 categories:
   - Chicken Recipes
+image:
+  path: /images/kadai-chicken/final-dish-blog.jpg
 featured_image: /images/kadai-chicken/final-dish-blog.jpg
 youtube_link: https://www.youtube.com/embed/xi_BU5qWWds    
 recipe:

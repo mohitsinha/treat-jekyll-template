@@ -3,6 +3,8 @@ date: 2021-05-29
 title: Mutton Kathi Roll | Mutton Egg Roll
 categories:
   - Mutton Recipes
+image:
+  path: /images/mutton-roll/mutton-1-blog.jpg
 featured_image: /images/mutton-roll/mutton-1-blog.jpg
 youtube_link: https://www.youtube.com/embed/wIx7winR-ZA    
 recipe:

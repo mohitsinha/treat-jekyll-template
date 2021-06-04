@@ -3,6 +3,8 @@ date: 2021-05-23
 title: Mango Lassi
 categories:
   - Sweet Dishes (Desserts)
+image:
+  path: /images/mango-lassi/lassi-1-blog.jpg
 featured_image: /images/mango-lassi/lassi-1-blog.jpg
 youtube_link: https://www.youtube.com/embed/PY6-Y2OfDwg    
 recipe:

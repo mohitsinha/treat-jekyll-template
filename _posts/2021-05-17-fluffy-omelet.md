@@ -3,6 +3,8 @@ date: 2021-05-17
 title: Fluffy Omelet
 categories:
   - Egg Recipes
+image:
+  path: /images/fluffy-omelet/final-2-blog.jpg
 featured_image: /images/fluffy-omelet/final-2-blog.jpg
 youtube_link: https://www.youtube.com/embed/t4Atgz3cSW4
 recipe:

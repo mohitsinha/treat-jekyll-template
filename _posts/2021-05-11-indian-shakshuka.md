@@ -1,6 +1,8 @@
 ---
 date: 2021-05-11
 title: Indian Shakshuka
+image:
+  path: /images/shakshuka/shakshuka-blurred-blog.jpg
 categories:
   - Egg Recipes
 featured_image: /images/shakshuka/shakshuka-blurred-blog.jpg
